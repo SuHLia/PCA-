@@ -1,0 +1,2 @@
+# PCA-
+John Cancer Hospital (JCH) is a leading cancer hospital in USA. It specializes in preventing breast cancer. Over the period of the last few years, JCH has collected breast cancer data from patients who came for screening/treatment. However, this data has almost 30 attributes and is difficult to run and interpret the result. You as ML expert has to reduce the no. of attributes (Dimensionality Reduction) so that results are meaningful and accurate.
